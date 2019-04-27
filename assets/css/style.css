@@ -2,9 +2,13 @@ body{
     background-color: gray;
 }
 header {
+    margin: 10px;
+    text-align: center;
     background-color: white;
 }
 nav {
+    margin: 10px;
+    text-align: center;
     background-color: white;
 }
 section {
@@ -15,6 +19,8 @@ aside {
     background-color: white;
 }  
 footer {
+    margin: 10px;
+    text-align: center;
     background-color: white;
 }
 article {
